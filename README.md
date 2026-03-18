@@ -21,27 +21,28 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D63384&center=true&vCenter=true&width=500&lines=applied+math+student+%C3%97+data+engineering+intern+%C3%97+ai+%F0%9F%8C%B8;turning+messy+data+into+something+meaningful+%E2%9C%A8;building+clean+pipelines+%26+cute+solutions+%F0%9F%92%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D63384&center=true&vCenter=true&width=500&lines=turning+messy+data+into+something+meaningful+%E2%9C%A8;fine-tuned+BERT+%C2%B7+95%25+F1+score+%F0%9F%8E%89;building+clean+pipelines+%26+cute+solutions+%F0%9F%92%95;RAG+%C2%B7+ETL+%C2%B7+Azure+%C2%B7+PyTorch+%F0%9F%8C%B8" alt="Typing SVG" />
 </div>
 
 &nbsp;
 
-```bash
+```
+
 ┌──(zorana@pink-data-lab)
 │
-├─$ whoami
-│  ↳ applied math student · data engineer · ai enthusiast 🌸
-│
-├─$ cat current_role.txt
-│  ↳ Data Engineering Intern @ Robert Bosch d.o.o. 💼
+├─$ cat skills.txt
+│  ↳ python · sql · machine learning · data engineering 🌸
 │
 ├─$ cat passion.txt
 │  ↳ turning messy data into ✨ something meaningful ✨
 │  ↳ building clean pipelines & cute AI solutions 💕
 │
+├─$ git log --oneline
+│  ↳ fine-tuned BERT · 95% F1 score 🎉
+│  ↳ built RAG Q&A system with semantic search 🔍
+│
 └─$ ./run_life.py --mode=learning_forever 🐰
 ```
-
 &nbsp;
 
 ---
