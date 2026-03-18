@@ -21,7 +21,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D63384&center=true&vCenter=true&width=500&lines=applied+math+%C3%97+data+engineering+%C3%97+ai+%F0%9F%8C%B8;turning+messy+data+into+something+meaningful+%E2%9C%A8;building+clean+pipelines+%26+cute+solutions+%F0%9F%92%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D63384&center=true&vCenter=true&width=500&lines=applied+math+student+%C3%97+data+engineering+intern+%C3%97+ai+%F0%9F%8C%B8;turning+messy+data+into+something+meaningful+%E2%9C%A8;building+clean+pipelines+%26+cute+solutions+%F0%9F%92%95" alt="Typing SVG" />
 </div>
 
 &nbsp;
