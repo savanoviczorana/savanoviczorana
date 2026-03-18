@@ -2,7 +2,7 @@
 
 # 💖 🐰 hi, i'm zorana ✨ 🐰 💖
 
-### 🎀 applied mathematics · data engineering · ai enthusiast 🎀
+### 🎀 applied mathematics student · data engineering intern · ai enthusiast 🎀
 
 ![Python](https://img.shields.io/badge/Python-ff8fb1?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-f48fb1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -10,7 +10,7 @@
 ![ML & AI](https://img.shields.io/badge/ML%20%26%20AI-d63384?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-c2185b?style=for-the-badge&logo=apachespark&logoColor=white)
 
-📍 Pančevo, Serbia &nbsp;·&nbsp; 🎓 Mathematics graduate 💻 Data Engineering Intern
+📍 Pančevo, Serbia &nbsp;·&nbsp
 
 </div>
 
