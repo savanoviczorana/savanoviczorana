@@ -2,7 +2,7 @@
 
 # 💖 🐰 hi, i'm zorana ✨ 🐰 💖
 
-### 🎀 applied mathematics student · data engineering intern · ai enthusiast 🎀
+### 🎀 applied mathematics student · data engineering intern · ml & ai enthusiast 🎀
 
 ![Python](https://img.shields.io/badge/Python-ff8fb1?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-f48fb1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -20,16 +20,26 @@
 
 &nbsp;
 
-```
-  (\_/)
- ( •ᴗ•)  🌸
-  />🧁
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D63384&center=true&vCenter=true&width=500&lines=applied+math+%C3%97+data+engineering+%C3%97+ai+%F0%9F%8C%B8;turning+messy+data+into+something+meaningful+%E2%9C%A8;building+clean+pipelines+%26+cute+solutions+%F0%9F%92%95" alt="Typing SVG" />
+</div>
 
-zorana@pink-data-lab ~ $ whoami
-> applied math student turning messy data into something meaningful 🩰
+&nbsp;
 
-zorana@pink-data-lab ~ $ cat passion.txt
-> building clean pipelines & cute AI solutions... 💕
+```bash
+┌──(zorana@pink-data-lab)
+│
+├─$ whoami
+│  ↳ applied math student · data engineer · ai enthusiast 🌸
+│
+├─$ cat current_role.txt
+│  ↳ Data Engineering Intern @ Robert Bosch d.o.o. 💼
+│
+├─$ cat passion.txt
+│  ↳ turning messy data into ✨ something meaningful ✨
+│  ↳ building clean pipelines & cute AI solutions 💕
+│
+└─$ ./run_life.py --mode=learning_forever 🐰
 ```
 
 &nbsp;
@@ -38,12 +48,12 @@ zorana@pink-data-lab ~ $ cat passion.txt
 
 ## 💗 about me
 
-- 🎓 Applied Mathematics student (specializing in Data Science & Statistics) *(graduating 2026)*
+- 🎓 Applied Mathematics student *(Data Science & Statistics — graduating 2026)*
 - 💼 Data Engineering Intern @ **Robert Bosch d.o.o.**, Belgrade
-- 🐍 Migrated 15+ ETL workflows from KNIME → Python/SQL for Azure
+- 🐍 Migrated 15+ ETL workflows from KNIME → Python/SQL for Azure cloud transition
 - 🧹 Processed 500k+ record datasets — cleaning, transforming, validating
-- 🧠 Love ML, AI, structured thinking & clean solutions
-- ✨ Hackathon finalist · conference volunteer · forever learning
+- 📝 Created end-to-end technical documentation for data flows, schemas & pipeline logic
+- 🧠 ML, AI, structured thinking & clean solutions
 
 ---
 
@@ -115,15 +125,35 @@ Fine-tuned a pre-trained BERT model on a fake news detection dataset — achieve
 
 ---
 
-## 🌱 currently learning
+## 📚 relevant coursework
 
-- ☁️ Azure Data Factory & cloud-native data pipelines
-- ⚡ PySpark & distributed systems
-- 🤖 Advanced LLM techniques & agent frameworks
+<div align="center">
+
+![Neural Networks & AI](https://img.shields.io/badge/Neural%20Networks%20%26%20AI-fce4ec?style=flat-square&logoColor=c2185b)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-fce4ec?style=flat-square&logoColor=c2185b)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-fce4ec?style=flat-square&logoColor=c2185b)
+![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-fce4ec?style=flat-square&logoColor=c2185b)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-FFB3CC?style=flat-square&logoColor=c2185b)
+![Optimization Methods](https://img.shields.io/badge/Optimization%20Methods-FFB3CC?style=flat-square&logoColor=c2185b)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FFB3CC?style=flat-square&logoColor=c2185b)
+![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-f8bbd0?style=flat-square&logoColor=880e4f)
+![Experimental Design](https://img.shields.io/badge/Experimental%20Design-f8bbd0?style=flat-square&logoColor=880e4f)
+![Numerical Methods](https://img.shields.io/badge/Numerical%20Methods-f8bbd0?style=flat-square&logoColor=880e4f)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-f8bbd0?style=flat-square&logoColor=880e4f)
+
+</div>
 
 ---
 
-## 🏆 achievements & certificates
+## 🌱 currently learning
+
+- ☁️ Azure Data Factory & cloud-native data pipelines
+- ⚡ Advanced graph algorithms
+- 🤖 Kubernetes & MLOps pipelines 
+
+---
+
+## 🎖️ achievements & certificates
 
 - 🏆 **Data Science Hackathon Finalist** — Faculty of Mathematics, University of Belgrade *(2026)*
 - 📜 Google's Transformer Models & BERT Certificate
@@ -138,7 +168,7 @@ Fine-tuned a pre-trained BERT model on a fake news detection dataset — achieve
 <div align="center">
 
 [![Email](https://img.shields.io/badge/savanoviczorana@gmail.com-ff8fb1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savanoviczorana@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8fb1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zorana-savanovic-0ab437275)
 
 </div>
 
