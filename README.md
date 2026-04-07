@@ -49,7 +49,7 @@
 
 ## 💗 about me
 
-- 🎓 Applied Mathematics student *(Data Science & Statistics — graduating 2026)*
+- 🎓 Applied Mathematics student
 - 💼 Data Engineering Intern @ **Robert Bosch d.o.o.**, Belgrade
 - 🐍 Migrated 15+ ETL workflows from KNIME → Python/SQL for Azure cloud transition
 - 🧹 Processed 500k+ record datasets — cleaning, transforming, validating
