@@ -1,59 +1,59 @@
 # zorana savanović
 
-**junior data scientist · applied mathematics · ml & ai**
+*data scientist · applied mathematics · ml & ai*
 
-![Python](https://img.shields.io/badge/Python-fce4ec?style=flat-square&logoColor=c2185b&logo=python)
-![SQL](https://img.shields.io/badge/SQL-fce4ec?style=flat-square&logoColor=c2185b&logo=postgresql)
-![XGBoost](https://img.shields.io/badge/XGBoost-fce4ec?style=flat-square&logoColor=c2185b&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-fce4ec?style=flat-square&logoColor=c2185b&logo=pytorch)
-![Azure](https://img.shields.io/badge/Azure-fce4ec?style=flat-square&logoColor=c2185b&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-fce4ec?style=flat-square&logoColor=c2185b&logo=docker)
+📍 Pančevo, Serbia · [LinkedIn](https://www.linkedin.com/in/zorana-savanovic-0ab437275) · [savanoviczorana@gmail.com](mailto:savanoviczorana@gmail.com)
 
 ---
-### now
 
-💼 **Junior Data Scientist @ Ominimo Insurance**
-→ developing regression models using XGBoost
-→ feature engineering and model evaluation in Python & Jupyter
-→ working with data stored on AWS S3
+### experience
 
-💼 **prev: Data Engineering Intern @ Robert Bosch**
-→ migrated 15+ ETL workflows from KNIME to Python/SQL for Azure cloud transition
-→ built a metadata-driven ELT pipeline with PySpark and Docker
-→ processed 1m+ record datasets — cleaning, transforming, validating
+**Junior Data Scientist · Ominimo Insurance** `2026 – present`
+Regression modeling on structured tabular data · feature engineering · model evaluation · S3 data pipelines
+
+**Data Engineering Intern · Robert Bosch** `2025 – 2026`
+Migrated 15+ ETL workflows KNIME → Python/SQL for Azure cloud transition · built metadata-driven ELT pipeline with PySpark & Docker · processed 100k+ record datasets
+
+---
+
+### education
+
+**BSc in Applied Mathematics**
+Neural Networks & AI · Machine Learning · Statistical Modeling · Optimization · Regression Analysis
+
 ---
 
 ### projects
 
-**predictive maintenance — AI4I 2020**
-EDA, statistical modeling, and machine learning on industrial sensor data.
-`python` `scikit-learn` `pandas`
+**BERT Fine-tuning — Fake News Detection** · `PyTorch` `HuggingFace` `scikit-learn`
+95% F1 score on binary text classification task
 
-**windkessel model**
-Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element Windkessel models, solved with ODEs.
-`python` `numpy` `scipy`
+**Predictive Maintenance — AI4I 2020** · `Python` `scikit-learn` `Pandas`
+EDA, statistical modeling and ML on industrial sensor dataset
 
-**bert fine-tuning — fake news detection**
-Fine-tuned BERT for binary text classification. 95% F1 score.
-`pytorch` `huggingface` `scikit-learn`
+**Metadata-Driven ELT Pipeline** · `PySpark` `Docker` `Python`
+JSON-config-driven pipeline with automated data quality checks
 
-**metadata-driven elt pipeline**
-JSON-driven transformation pipeline with automated data quality checks, containerized with Docker.
-`pyspark` `docker` `python`
+**Windkessel Model** · `Python` `NumPy` `SciPy`
+Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element Windkessel models solved with ODEs
 
 ---
 
 ### stack
-`Python` `SQL` `R` `PyTorch` `XGBoost` `HuggingFace` `scikit-learn` `Pandas` `NumPy` `Azure` `Docker` `Jupyter`
+`Python` `SQL` `R` `PyTorch` `XGBoost` `HuggingFace` `scikit-learn` `Pandas` `NumPy` `PySpark` `Azure` `Docker` `Jupyter`
 
 ---
 
 ### achievements
-🏆 Data Science Hackathon Finalist — Faculty of Mathematics, Belgrade *(2026)*
+🏆 **Data Science Hackathon Finalist — Faculty of Mathematics, University of Belgrade *(2026)***
 📜 Google Transformer Models & BERT · MLOps Certificates
 🌍 Volunteer — Data Science Europe Conference
 
 ---
 
-[![Email](https://img.shields.io/badge/savanoviczorana@gmail.com-fce4ec?style=flat-square&logo=gmail&logoColor=c2185b)](mailto:savanoviczorana@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fce4ec?style=flat-square&logo=linkedin&logoColor=c2185b)](https://www.linkedin.com/in/zorana-savanovic-0ab437275)
+![Python](https://img.shields.io/badge/Python-fce4ec?style=flat-square&logo=python&logoColor=c2185b)
+![PyTorch](https://img.shields.io/badge/PyTorch-fce4ec?style=flat-square&logo=pytorch&logoColor=c2185b)
+![XGBoost](https://img.shields.io/badge/XGBoost-fce4ec?style=flat-square&logo=python&logoColor=c2185b)
+![Azure](https://img.shields.io/badge/Azure-fce4ec?style=flat-square&logo=microsoftazure&logoColor=c2185b)
+![Docker](https://img.shields.io/badge/Docker-fce4ec?style=flat-square&logo=docker&logoColor=c2185b)
+![AWS S3](https://img.shields.io/badge/AWS_S3-fce4ec?style=flat-square&logo=amazons3&logoColor=c2185b)
