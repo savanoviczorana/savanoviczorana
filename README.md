@@ -27,7 +27,7 @@
 
 > Migrated 15+ ETL workflows KNIME → Python/SQL for Azure cloud transition  
 > Built metadata-driven ELT pipeline with PySpark & Docker  
-> Processed 100k+ record datasets
+> Processed 1m+ record datasets
 
 ---
 
@@ -35,11 +35,19 @@
 
 ### 🎀 BSc in Applied Mathematics
 
-Neural Networks & AI · Machine Learning · Statistical Modeling · Optimization · Regression Analysis
+Neural Networks & AI · Machine Learning · Numerical Analysis · Statistical Modeling · Optimization · Regression Analysis · Linear Algebra · Probability & Statistics · Abstract Algebra
 
 ---
 
 ## ♡ projects
+
+
+### 🩷 Windkessel Model
+`Python` `NumPy` `SciPy`
+
+Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element Windkessel models solved with ODEs
+
+---
 
 ### 🩷 BERT Fine-tuning — Fake News Detection
 `PyTorch` `HuggingFace` `scikit-learn`
@@ -60,12 +68,6 @@ EDA, statistical modeling and ML on industrial sensor dataset
 
 JSON-config-driven pipeline with automated data quality checks
 
----
-
-### 🩷 Windkessel Model
-`Python` `NumPy` `SciPy`
-
-Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element Windkessel models solved with ODEs
 
 ---
 
