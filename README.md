@@ -41,16 +41,6 @@ Neural Networks & AI · Machine Learning · Numerical Analysis · Statistical Mo
 
 ## ♡ projects
 
-
-### 🩷 Windkessel Model
-`Python` `NumPy` `SciPy`
-
-Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element Windkessel models solved with ODEs
-
----
-
-## ♡ projects
-
 ### 🩷 Car Insurance Claim Frequency Prediction
 `Python` `XGBoost` `scikit-learn`
 Risk-based insurance pricing on the French Motor (freMTPL2) dataset — Poisson GLM and XGBoost with actuarial exposure offset
