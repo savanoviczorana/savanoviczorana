@@ -49,23 +49,31 @@ Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element 
 
 ---
 
-### 🩷 BERT Fine-tuning — Fake News Detection
-`PyTorch` `HuggingFace` `scikit-learn`
+## ♡ projects
 
-95% F1 score on binary text classification task
+### 🩷 Car Insurance Claim Frequency Prediction
+`Python` `XGBoost` `scikit-learn`
+Risk-based insurance pricing on the French Motor (freMTPL2) dataset — Poisson GLM and XGBoost with actuarial exposure offset
+[→ repo](https://github.com/savanoviczorana/car-insurance-claim-frequency-prediction)
 
 ---
 
-### 🩷 Predictive Maintenance — AI4I 2020
-`Python` `scikit-learn` `Pandas`
+### 🩷 Windkessel Model
+`Python` `NumPy` `SciPy`
+Mathematical modeling of arterial blood pressure dynamics using 2 and 3-element Windkessel models solved with ODEs
+[→ repo](https://github.com/savanoviczorana/windkessel-model)
 
-EDA, statistical modeling and ML on industrial sensor dataset
+---
+
+### 🩷 Breast Cancer Malignancy Prediction
+`Python` `scikit-learn` `Pandas`
+Binary classification of tumors as malignant or benign on the Wisconsin Breast Cancer dataset, comparing multiple classifiers
+[→ repo](https://github.com/savanoviczorana/breast-cancer-malignancy-prediction)
 
 ---
 
 ### 🩷 Metadata-Driven ELT Pipeline
 `PySpark` `Docker` `Python`
-
 JSON-config-driven pipeline with automated data quality checks
 
 
